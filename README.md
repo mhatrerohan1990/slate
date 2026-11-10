@@ -85,3 +85,7 @@ iconutil -c icns build/AppIcon.iconset -o Resources/AppIcon.icns
 ```
 
 If Finder or the Dock still shows the old icon, run `killall Dock Finder`.
+
+## License
+
+Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Rohan Mhatre.
